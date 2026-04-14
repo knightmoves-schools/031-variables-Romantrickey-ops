@@ -1,2 +1,2 @@
 let courseLength = 20;
-document.getElementById('courseLength').innercourseLength = courseLength;
+document.getElementById('courseLength').innercourseLength;
